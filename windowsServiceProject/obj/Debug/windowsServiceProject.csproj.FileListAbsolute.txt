@@ -1,0 +1,11 @@
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\bin\Debug\windowsServiceProject.exe.config
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\bin\Debug\windowsServiceProject.exe
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\bin\Debug\windowsServiceProject.pdb
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\bin\Debug\Topshelf.dll
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\bin\Debug\Topshelf.xml
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\obj\Debug\windowsServiceProject.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\obj\Debug\windowsServiceProject.csproj.SuggestedBindingRedirects.cache
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\obj\Debug\windowsServiceProject.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\obj\Debug\windowsServiceProject.csproj.CopyComplete
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\obj\Debug\windowsServiceProject.exe
+C:\inetpub\wwwroot\windowsServiceProject\windowsServiceProject\obj\Debug\windowsServiceProject.pdb
